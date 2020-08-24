@@ -1,0 +1,214 @@
+body{
+	background-color:#E6D732;
+}
+
+#contenedor{
+	width: 1200px;
+	height: 2910px;
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto;		
+}
+
+#banner{
+	width: 1200px;
+	height: 200px;
+	background-color:black;	 
+}
+
+#logo{
+	width: 250px;
+	height: 200px;
+	margin-left: 10px;
+}
+
+#botonera_1{
+	width: 1200px;
+	height: 60px;
+	background:white;
+	margin-bottom: none;
+	padding-top: 1px;
+	text-align: center;
+}
+
+#boton{
+	background-color: black;	
+	border: none;
+	color: white;
+	padding: 10px 30px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 20px;
+	margin: 10px;	
+}
+
+#inicio{
+	width: 1200px;
+	height:200px;
+	background:white;
+	float:left;
+	margin-top: 1px;	
+	align-content: center;
+}
+
+#columna_izq{
+	width: 598px;
+	height: 550px;
+	background:black;
+	float: left;
+	margin: 1px;		
+}
+
+#columna_derecha{
+	width: 598px;
+	height: 550px;
+	background:black;		
+	float: left;
+	margin:1px;
+	color: white;		
+}
+
+#columna_izq2{
+	width: 598px;
+	height: 550px;
+	background:black;
+	float: left;
+	margin: 1px;		
+}
+
+#columna_derecha2{
+	width: 598px;
+	height: 550px;
+	background:black;		
+	float: left;
+	margin:1px;
+	color: white;		
+}
+
+#columna_izq3{
+	width: 598px;
+	height: 550px;
+	background:black;
+	float: left;
+	margin: 1px;
+		
+}
+
+#columna_derecha3{
+	width: 598px;
+	height: 550px;
+	background:black;		
+	float: left;
+	margin:1px;
+	color: white;		
+}
+
+#columna_izq4{
+	width: 800px;
+	height: 600px;
+	background:black;
+	float: left;
+	margin: 1px;		
+}
+
+form{
+	width: 450px;
+	margin: auto;
+	background-color: #E6D732;	
+	padding: 10px 20px;
+	box-sizing: border-box;
+	margin-top: 50px;
+	border-radius: 7px;
+}
+
+input, textarea{
+	width: 100%;
+	margin-bottom: 20px;
+	padding: 7px;
+	box-sizing: border-box;
+	font-size: 17px;
+	border:none;
+}
+
+textarea{
+	min-height: 100px;
+	max-height: 200px;
+	max-width: 100%;	
+}
+
+#boton2{
+	background: #31384A;
+	color: white;
+	padding: 20px;
+}
+
+#boton2: hover{
+	cursor : pointer;
+}
+
+#columna_derecha4{
+	width: 395px;
+	height: 600px;
+	background:black;		
+	float: left;
+	margin:1px;
+	color: white;		
+}
+
+#imgato1{
+	width: 400px;
+	height:400px;	
+	margin: 10px 90px;
+	text-align: center;
+	float: left;	
+}
+
+#pie_de_pagina{
+	width: 1200px;
+	height: 200px;
+	background:black;
+	float:left;
+	margin-top: 1px;
+	text-align: center;
+}
+
+#img5{
+	margin: 5px 10px 2px;
+	align-content: center;			
+	cursor: pointer;
+}
+
+h1 {
+	color: #5E6665;
+	font-family: times-new-roman;
+	text-align: center;
+	font-size: 30px;		
+}
+
+h2 {
+	color:white ;
+	font-family: times-new-roman;
+	text-align: center;
+	font-size: 35px;
+	padding: 10px 2px;	
+}
+
+h3 {
+	color: #5E6665;
+	font-family: times-new-roman;
+	font-weight: bold;
+	text-align: left;
+	font-size: 25px;
+	margin-left: 30px;
+	font-style: italic;	
+}
+
+h4 {
+	color:#5E6665 ;
+	font-family: times-new-roman;
+	text-align: center;
+	font-size: 35px;
+	padding: 10px 2px;	
+}
+

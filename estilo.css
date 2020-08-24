@@ -1,0 +1,208 @@
+body{
+	background-color:#E6D732;
+}
+
+#contenedor{
+	width: 1200px;
+	height: 2500px;
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto;		
+}
+
+#banner{
+	width: 1200px;
+	height: 200px;
+	background-color:black;	 
+}
+
+#logo{
+	width: 250px;
+	height: 200px;
+	margin-left: 10px;
+}
+#botonera_1{
+	width: 1200px;
+	height: 60px;
+	background:white;
+	margin-bottom: none;
+	padding-top: 1px;
+	text-align: center;
+}
+
+
+#boton{
+	background-color: black;	
+	border: none;
+	color: white;
+	padding: 10px 30px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 20px;
+	margin: 10px;
+	
+}
+
+
+#columna_inicio{
+	width: 1200px;
+	height: 700px;
+	background:white;
+	float:left;
+	margin-top: 5px;
+}
+
+.slider{
+	width: 55%;
+	margin: auto;
+	overflow: hidden;
+}
+
+.slider ul {
+	display: flex;
+	padding: 0;
+	width: 400%;
+
+	animation: cambio 20s infinite;
+	animation-direction: alternate;
+}
+
+.slider li {
+	width: 700px;
+	list-style: none;
+}
+
+.slider img {
+	width: 100%;
+}
+
+@keyframes cambio{
+	0%{margin-left: 0;}
+	20%{margin-left: 0;}
+
+	25%{margin-left: -100%;}
+	45%{margin-left: -100%;}
+
+	50%{margin-left: -200%;}
+	70%{margin-left: -200%;}
+
+	75%{margin-left: -300%;}
+	100%{margin-left: -300%;}
+}
+
+#columna_izq{
+	width: 400px;
+	height: 600px;
+	background:white;
+	float: left;
+	margin-top:10px;
+	margin-right:10px;
+	margin-left: 10px;
+}
+
+p {
+	font-family: times-new-roman;
+	font-size: 16px;
+	color: #5E6665;
+	font-style:;
+	text-align: justify;
+	padding: 10px;
+	margin-right: 20px
+}
+
+
+#img2{
+	width: 150px;
+	height:100px;
+	margin-left: 15px;
+	padding: 10px;	
+	float: left;
+	margin-right: 12px;
+	margin-bottom: 5px;
+	cursor: pointer;
+}
+
+
+#columna_centro{
+	width: 750px;
+	height: 600px;
+	background:#AE2408;		
+	float: left;
+	margin-top:10px;
+	margin-right:10px;
+	color: white;
+}
+
+#img3{
+	width: 650px;
+	height:400px;
+	margin-right: 20px;
+	margin-left: 60px;
+	cursor: pointer;	
+}
+
+#columna_abajo{
+	width: 1200px;
+	height: 700px;
+	background:white;
+	float:left;
+	margin-top: 10px;
+}
+
+#img4{
+	width: 400px;
+	height:250px;
+	margin-right:30px;
+	margin-left: 30px;	
+	float: left;
+	margin-top: 50px;	
+}
+
+#pie_de_pagina{
+	width: 1200px;
+	height: 200px;
+	background:black;
+	float:left;
+	margin-top: 10px;
+	text-align: center;
+}
+
+#img5{
+	margin: 5px 10px 2px;
+	align-content: center;			
+	cursor: pointer;
+}
+
+
+
+h1 {
+	color: white;
+	font-family: times-new-roman;
+	text-align: center;
+	font-size: 30px;
+	padding: 2px 2px;
+	cursor: pointer;	
+}
+
+h2 {
+	font-family: "times-new-roman";	
+	text-align: left;
+	color: #5E6665;
+	font-size: 19px;
+	padding: 2px 2px;
+	margin-left: 10px;
+	cursor: pointer;
+	text-decoration: none;
+}
+
+h3{
+	font-family: "times-new-roman";	
+	text-align: center;
+	color: #5E6665;
+	font-size: 30px;
+	padding: 10px 5px;
+	margin-left: 0px;	
+}
+
+

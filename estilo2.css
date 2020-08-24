@@ -1,0 +1,299 @@
+body{
+	background-color:#E6D732;
+}
+
+#contenedor{
+	width: 1200px;
+	height: 4500px;
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto;		
+}
+
+#banner{
+	width: 1200px;
+	height: 200px;
+	background-color:black;	 
+}
+
+#logo{
+	width: 250px;
+	height: 200px;
+	margin-left: 10px;
+}
+
+#botonera_1{
+	width: 1200px;
+	height: 60px;
+	background:white;
+	margin-bottom: none;
+	padding-top: 1px;
+	text-align: center;
+}
+
+#boton{
+	background-color: black;	
+	border: none;
+	color: white;
+	padding: 10px 30px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 20px;
+	margin: 10px;
+	
+}
+
+#inicio{
+	width: 1200px;
+	height:120px;
+	background:white;
+	float:left;
+	margin-top: 1px;	
+}
+
+
+#columna_izq1{
+	width: 400px;
+	height: 350px;
+	background:white;
+	float: left;
+	margin: 4px 4px 4px 4px;
+	border: 1px solid #000;	
+}
+
+#banda{
+	width: 350px;
+	height: 200px;	
+	margin: 5px 20px 2px;
+	align-content: center;	
+}
+
+#columna_centro1{
+	width: 780px;
+	height: 350px;
+	background:white;		
+	float: left;
+	margin:4px 4px 4px 4px;
+	color: white;
+	border: 1px solid #000;	
+}
+
+#columna_izq2{
+	width: 400px;
+	height: 350px;
+	background:white;
+	float: left;
+	margin: 4px 4px 4px 4px;
+	border: 1px solid #000;	
+}
+
+#columna_centro2{
+	width: 780px;
+	height: 350px;
+	background:white;		
+	float: left;
+	margin:4px 4px 4px 4px;
+	color: white;
+	border: 1px solid #000;	
+}
+
+#columna_izq3{
+	width: 400px;
+	height: 350px;
+	background:white;
+	float: left;
+	margin: 4px 4px 4px 4px;
+	border: 1px solid #000;	
+}
+
+#columna_centro3{
+	width: 780px;
+	height: 350px;
+	background:white;		
+	float: left;
+	margin:4px 4px 4px 4px;
+	color: white;
+	border: 1px solid #000;	
+}
+
+
+#columna_izq4{
+	width: 400px;
+	height: 350px;
+	background:white;
+	float: left;
+	margin: 4px 4px 4px 4px;
+	border: 1px solid #000;	
+}
+
+#columna_centro4{
+	width: 780px;
+	height: 350px;
+	background:white;		
+	float: left;
+	margin:4px 4px 4px 4px;
+	color: white;
+	border: 1px solid #000;	
+}
+
+
+#columna_izq5{
+	width: 400px;
+	height: 350px;
+	background:white;
+	float: left;
+	margin: 4px 4px 4px 4px;
+	border: 1px solid #000;	
+}
+
+#columna_centro5{
+	width: 780px;
+	height: 350px;
+	background:white;		
+	float: left;
+	margin:4px 4px 4px 4px;
+	color: white;
+	border: 1px solid #000;	
+}
+
+
+#columna_izq6{
+	width: 400px;
+	height: 350px;
+	background:white;
+	float: left;
+	margin: 4px 4px 4px 4px;
+	border: 1px solid #000;	
+}
+
+#columna_centro6{
+	width: 780px;
+	height: 350px;
+	background:white;		
+	float: left;
+	margin:4px 4px 4px 4px;
+	color: white;
+	border: 1px solid #000;	
+}
+
+
+#columna_izq7{
+	width: 400px;
+	height: 350px;
+	background:white;
+	float: left;
+	margin: 4px 4px 4px 4px;
+	border: 1px solid #000;	
+}
+
+#columna_centro7{
+	width: 780px;
+	height: 350px;
+	background:white;		
+	float: left;
+	margin:4px 4px 4px 4px;
+	color: white;
+	border: 1px solid #000;	
+}
+
+#columna_izq8{
+	width: 400px;
+	height: 350px;
+	background:white;
+	float: left;
+	margin: 4px 4px 4px 4px;
+	border: 1px solid #000;	
+}
+
+#columna_centro8{
+	width: 780px;
+	height: 350px;
+	background:white;		
+	float: left;
+	margin:4px 4px 4px 4px;
+	color: white;
+	border: 1px solid #000;	
+}
+
+
+#columna_izq9{
+	width: 400px;
+	height: 350px;
+	background:white;
+	float: left;
+	margin: 4px 4px 4px 4px;
+	border: 1px solid #000;	
+}
+
+#columna_centro9{
+	width: 780px;
+	height: 350px;
+	background:white;		
+	float: left;
+	margin:4px 4px 4px 4px;
+	color: white;
+	border: 1px solid #000;	
+}
+
+#columna_izq10{
+	width: 400px;
+	height: 350px;
+	background:white;
+	float: left;
+	margin: 4px 4px 4px 4px;
+	border: 1px solid #000;	
+}
+
+#columna_centro10{
+	width: 780px;
+	height: 350px;
+	background:white;		
+	float: left;
+	margin:4px 4px 4px 4px;
+	color: white;
+	border: 1px solid #000;	
+}
+
+#pie_de_pagina{
+	width: 1200px;
+	height: 200px;
+	background:black;
+	float:left;
+	margin-top: 10px;
+	text-align: center;
+}
+
+#img5{
+	margin: 5px 10px 2px;
+	align-content: center;			
+	cursor: pointer;
+}
+
+#inicio2{
+	width: 1200px;
+	height:420px;
+	background:white;
+	float:left;
+	margin-top: 1px;	
+}
+
+
+h1 {
+	color: #5E6665;
+	font-family: times-new-roman;
+	text-align: center;
+	font-size: 30px;
+	padding: 2px 2px;	
+}
+
+h2 {
+	color: #5E6665;
+	font-family: times-new-roman;
+	text-align: center;
+	font-size: 30px;
+	padding: 20px 2px;	
+}
+
+
+
